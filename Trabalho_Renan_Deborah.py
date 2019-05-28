@@ -1,3 +1,5 @@
+#Download dos dados: https://drive.google.com/drive/folders/1ZlxxxADHz_Q1y5CgfS3S5wJSsksgD2Rj
+
 #1 - Exibir o total de linhas e colunas
 import pandas as pd
 import seaborn as sb
