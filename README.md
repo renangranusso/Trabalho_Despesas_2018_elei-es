@@ -1,5 +1,7 @@
 # Trabalho despesas eleições 2018
 
+#Download dos dados: https://drive.google.com/file/d/1l1JywL720YZutRjlGPimOb-xrVocD32N/view
+
 # Dupla: Renan Plaomino, Deborah Susan
 Para realização deste trabalho foi utilizada uma base de dados .CSV, a linguagem Python, IDE: Jupyter Notebook, e a bilbioteca MatpotLib para geração de gráficos.
 
