@@ -2,6 +2,10 @@
 
 #Download dos dados: https://drive.google.com/file/d/1l1JywL720YZutRjlGPimOb-xrVocD32N/view
 
+#Base de dados Brasil.io
+#Link do local que os dados foram gerados: 
+#HTTPS://brasil.io/dataset/eleicoes-brasil/candidatos 
+
 # Dupla: Renan Plaomino, Deborah Susan
 Para realização deste trabalho foi utilizada uma base de dados .CSV, a linguagem Python, IDE: Jupyter Notebook, e a bilbioteca MatpotLib para geração de gráficos.
 A base de dados .csv foi retirada do site: brasil.io , Eleições 2018, despesas.
